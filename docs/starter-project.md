@@ -20,7 +20,7 @@ With great planning you will have a much clearer idea of what your exploration s
 
 #### 2. Exploration Too Long
 
-Explorations can have many _sub-goals_ but the main one is always to transfer some learning to the explorer. However, in doing so we get carried away sometimes and end with too much content inside a single exploration. It is also possible that your cards are too long and the learner has lost their attentio
+Explorations can have many _sub-goals_ but the main one is always to transfer some learning to the explorer. However, in doing so we get carried away sometimes and end with too much content inside a single exploration. It is also possible that your cards are too long and the learner has lost their attention.
 
 :::tip Break it Down
 You need to chop it down into headings
@@ -40,8 +40,8 @@ It is possible to make an exploration that is not well suited for your target au
 ## 2. Understanding and using Card Statistics
 
 ### **High Number of Quits on a Card**
-   - [Card is too long](#_1-exploration-not-helpful)
-   - [Card is too hard](#_2-exploration-too-long)
+   - [Card is too long](#_1-card-is-too-long)
+   - [Card is too hard](#_2-card-is-too-hard)
 
 ---
 
@@ -56,7 +56,7 @@ The difficulty of this card might be too high so users might be getting frustrat
 
 
 ### **Card Entered too less**
-   - [Card does not play a part in the story](#_1-exploration-not-helpful)
+   - [Card does not play a part in the story](#_1-card-does-not-play-a-part-in-the-story)
 
 ---
 

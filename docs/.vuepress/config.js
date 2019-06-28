@@ -13,6 +13,5 @@ module.exports = {
         '/starter-project',
         '/',
       ]
-    },
-    base: "/starter-project/"
+    }
   }
