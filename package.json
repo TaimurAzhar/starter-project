@@ -1,0 +1,26 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaimurAzhar/starter-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaimurAzhar/starter-project/issues"
+  },
+  "homepage": "https://github.com/TaimurAzhar/starter-project#readme",
+  "dependencies": {
+    "vuepress": "^1.0.2"
+  }
+}

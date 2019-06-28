@@ -1,16 +1,16 @@
 module.exports = {
-    title: 'Hello VuePress',
+    title: 'Hello Oppia',
     description: 'Just playing around',
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Hello', link: '/hello/' },
+        { text: 'Hello', link: '/starter-project/' },
     
       ],
       sidebarDepth : 2,
 
       sidebar: [
-        '/hello',
+        '/starter-project',
         '/',
       ]
     }
